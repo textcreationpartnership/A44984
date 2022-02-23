@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and address of the Right Honourable the Lord Mayor, Aldermen and Commons of the City of London, in Common-Councel assembled</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44984</idno>
+            <idno type="STC">Wing H3429</idno>
+            <idno type="STC">ESTC R15951</idno>
+            <idno type="EEBO-CITATION">11849739</idno>
+            <idno type="OCLC">ocm 11849739</idno>
+            <idno type="VID">49917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and address of the Right Honourable the Lord Mayor, Aldermen and Commons of the City of London, in Common-Councel assembled</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:49917:1"/>
+            <pb facs="tcp:49917:1" rendition="simple:additions"/>
+            <head>The Humble Petition and Addreſs OF THE Right Honourable the LORD MAYOR, ALDERMEN and COMMONS of the City of <hi>London,</hi> in Common-Councel Aſſembled.</head>
+            <head type="sub">To the Kings Moſt Excellent Majeſty.</head>
+            <p>WE, Your Majeſties moſt Loy<g ref="char:EOLhyphen"/>al and Obedient Subjects, conſidering; That it hath pleaſed Almighty God by a wonderful Providence to bring to light the Devi<g ref="char:EOLhyphen"/>liſh Attempts and Plots of our Adver<g ref="char:EOLhyphen"/>ſaries, the Papiſts, againſt Your Majeſties Sacred Perſon, Your Government, the True Proteſtant Religion, the Lives, Liberties, and Properties of Your Pro<g ref="char:EOLhyphen"/>teſtant Subjects; And, That by the Letters and Papers of the Conſpirators themſelves it doth appear, that one of the moſt effectual Means they propoſed to accompliſh their Deſigns, was by the procuring the frequent Adjourning, Proroguing, or Diſſolving of Your Parli<g ref="char:EOLhyphen"/>aments; Were ſurprized with Aſtoniſh<g ref="char:EOLhyphen"/>ment at the untimely Diſſolution of Your late Parliaments, before Your Ma<g ref="char:EOLhyphen"/>jeſty and They could fully purſue the Diſcovery and Suppreſſion of the ſaid Deſigns and Conſpiracies, or provide Remedies neceſſary for the Preſervation of Your Sacred Perſon and Govern<g ref="char:EOLhyphen"/>ment, and the Proteſtant Religion at Home and Abroad. But we ſtand more amazed at the Unpreſidented Boldneſs of ſome Private Perſons, who (by Printed Papers, and otherwiſe) take upon them to Arraign and Condemn the Proceed<g ref="char:EOLhyphen"/>ings of Your Two laſt Parliaments, which (as Your Petitioners humbly con<g ref="char:EOLhyphen"/>ceive) plainly tends to bring that part of the Conſtitution into Contempt, and in the Conſequence of it to Diſſolve the Ancient Government and its Funda<g ref="char:EOLhyphen"/>mentals, the Preſervation whereof is abſolutely neceſſary for Your Majeſties Honour, Power and Greatneſs. But We relying upon Your moſt Gracious Diſpoſition, to receive the Dutiful Addreſſes of Your Loyal People, think Our ſelves obliged, by our Allegiance, to repreſent to Your Majeſty, That by theſe Means, contrary to your Royal Intention, Occaſion is taken by the Con<g ref="char:EOLhyphen"/>ſpirators, and their Complices, to ha<g ref="char:EOLhyphen"/>ſten and accompliſh that Ruine of Your Majeſty, Your Kingdoms, and the whole Proteſtant Intereſt, which hath been ſo long Projected and Proſecuted by the Councels of <hi>Rome</hi> and its Adhe<g ref="char:EOLhyphen"/>rents.</p>
+            <pb facs="tcp:49917:2"/>
+            <p>In the purſuit of which They are chiefly animated by the continuing Hopes of a Popiſh Succeſſor, and ſhar<g ref="char:EOLhyphen"/>pened by the Juſtice done upon the late Viſcount <hi>Stafford,</hi> and other Con<g ref="char:EOLhyphen"/>ſpirators. And the continued and great Confidence of the Party, is daily viſible in the open Numerous reſorts of Papiſts about Your Royal Palace and this City.</p>
+            <p>Alſo we ſhould be deficient in Our Duty, ſhould we not Repreſent to Your Majeſty the Neceſſity of maintaining Your Dominion and Sovereignty of the Seas, and the full Exerciſing Your Royal Naval Power; the want whereof hath been the Occaſion, that not only very many of Your Subjects Ships, and great Eſtates therein, have been taken, but alſo Multitudes of Your good Subjects and Able Sea-men, have of late been carried into and held in Miſerable Sla<g ref="char:EOLhyphen"/>very by the <hi>Algerines;</hi> which will in time (if not redreſſed) not only be an Encouragement to Others to commit further Outrages and Depredations up<g ref="char:EOLhyphen"/>on Your Subjects and their Ships, but will alſo inevitably be the Occaſion of the decay of Trade, and of Impairing the Strength ſo Neceſſary for the De<g ref="char:EOLhyphen"/>fence of your Kingdoms.</p>
+            <p>And as our Duty, from the Apprehen<g ref="char:EOLhyphen"/>ſions we have of the Imminent Dangers that Your Majeſties Royal Perſon and Government, our Religion, and all that is near and dear unto Us lies Expoſed to, obliges us humbly to offer the ſame to Your Princely Conſideration; ſo we do with all Fidelity and Humility aſſure Your Majeſty, That we are very far from being moved by any Common<g ref="char:EOLhyphen"/>wealth Principles, in Oppoſition to the Engliſh Monarchy, which we eſteem the beſt of Governments; or by any Ambi<g ref="char:EOLhyphen"/>tious or Factious Deſigns; nor are we further concerned for our ſelves therein, than is natural for Men under Common Danger to look out for Common Safe<g ref="char:EOLhyphen"/>ty.</p>
+            <p>And ſeeing our Danger is ſo Apparent and Viſible, we do in all Humility apply our ſelves to your Sacred Majeſty, be<g ref="char:EOLhyphen"/>ſeeching Your Majeſty to have regard to the Valuable, Induſtrious, and great Part of Your People, by whom Your Government, Your Revenue, and Your Kingdom is ſupported, and aſſure Your Majeſty we will Expoſe our Selves, our Lives and Fortunes, and all things dear to Us, for the Preſervation of Your Ma<g ref="char:EOLhyphen"/>jeſties Royal Perſon, Your Government and the Proteſtant Religion.</p>
+            <p>And inaſmuch as the ſame can be no way effectually ſecured but by the joynt Endeavours of Your Majeſty and Your Great Councel the Parlia<g ref="char:EOLhyphen"/>ment, Your Petitioners confidently hoping that no Miſinformations or Aſperſions created or raiſed by ill Men, for the Accompliſhment of their wicked Deſigns, can have any ſuch Impreſſion on Your Royal Mind as to leſſen Your due Esteem of Your great Councel the Parliament, Do moſt humbly pray, That Your Ma<g ref="char:EOLhyphen"/>jeſty will cauſe a Parliament to Aſ<g ref="char:EOLhyphen"/>ſemble and Sit, till they have ſo far proceeded, that due Proviſion may be made, and full Security had and obtained, for Your Majeſties Royal Perſon and Your People in all the ſaid Matters.</p>
+            <closer>And Your Petitioners (as in Duty bound) ſhall ever Pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="order">
+            <head>Ward Mayor. Commune Concilium tent' in Camera Guildhall Civitatis <hi>London</hi> Die Veneris xiii<hi rend="sup">o</hi> Die Maij. 1681. Annoque Regni Regis <hi>Caroli</hi> Secundi <hi>Angl'</hi> &amp;c. Triceſimo tertio.</head>
+            <p>IT is Ordered by this Court, That the Petition and Addreſs, now read and a<g ref="char:EOLhyphen"/>greed upon, to be preſented to his Majesty; ſhall after the ſame accordingly preſented, be Printed by the City Printer in one Sheet of Paper; As the Right Honourable the Lord Mayor ſhall direct and appoint.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
